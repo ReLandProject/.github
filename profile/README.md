@@ -1,0 +1,5 @@
+# Project Description
+
+The ReLand project was born in January 2023 from the cooperation between the University of Palermo and the General Directorate of Antiquities of Duhok (Kurdistan Region of Iraq - KRG), with the aim of contributing to the development of a comprehensive research programme to assess the effects of water level fluctuations in the Mosul Dam basin on the archaeological heritage of the upper Tigris region of Iraq, a region with over 275 archaeological sites of extreme interest.
+
+Through a combination of compilative and bibliographical studies, remote analysis and field interventions using state-of-the-art technology, the project aims to rapidly identify the most endangered sites, assess their state of conservation, proceed with targeted rescue interventions, and define and field-test a 'best practice', i.e. a protocol of monitoring and preservation techniques, methods and procedures to support the planning of further intervention strategies by local antiquities departments
